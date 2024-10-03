@@ -7,9 +7,12 @@ I'm currently a third-year Information Technology engineering student at Don Bos
 - 💬 Ask me about web development, data structures, or any of the technologies I’m familiar with.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/saniya-padwal-1684a32a8/).
 
-### 🔧 Pinned Projects:
-- [Python Mini Project](https://github.com/NiranjanKumarYadav36/Python_Mini_-Project-.git)
-- [Java Mini Project](https://github.com/Dushyantbhagwat/Java_miniproject.git)
+## 🏆 Contributions to Projects:
+- [Python Mini Project](https://github.com/NiranjanKumarYadav36/Python_Mini_-Project-.git) — Contributed to [specific feature or task].
+- [Java Mini Project](https://github.com/Dushyantbhagwat/Java_miniproject.git) — Worked on [specific part of the project].
+
+Check out these projects to see my work!
+
 
 ### 🛠️ Skills:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
