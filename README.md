@@ -23,7 +23,7 @@ I'm currently a third-year Information Technology engineering student at Don Bos
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyapadwal&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saniyapadwal&theme=react-dark)
+
 
 
 
