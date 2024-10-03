@@ -18,3 +18,12 @@ I'm currently a third-year Information Technology engineering student at Don Bos
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniyapadwal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyapadwal&layout=compact)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saniyapadwal&theme=react-dark)
+
+
+
